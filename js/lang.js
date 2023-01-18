@@ -36,7 +36,7 @@ const langArr = {
         'ua': 'контакти',
     },
     'h1': {
-        'en': 'Hello 👋,<br> My name is Andrii.<br> I`m studyng to become<br> a web developer',
+        'en': 'Hello 👋,<br> My name is Andrii.<br> I`m studying to become<br> a web developer',
         'ua': 'Привіт 👋,<br> мене звати Андрій.<br> Я вчуся на<br> Веб-розробника',
     },
     'stackTitle': {
